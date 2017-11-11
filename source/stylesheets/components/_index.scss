@@ -1,3 +1,13 @@
 // Import your components CSS files here.
 @import "alert";
 @import "navbar";
+@import "footer";
+@import "banner";
+@import "card";
+
+#home-flats {
+    padding: 100px 0;
+}
+.container {
+    width: 1170px;
+}
